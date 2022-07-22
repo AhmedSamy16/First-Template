@@ -1,6 +1,8 @@
 # First-Template
 The First front-end template I've created.
 
+The Project is responsive on all devices.
+
 ## Stack Used For It.
 HTML - CSS
 
